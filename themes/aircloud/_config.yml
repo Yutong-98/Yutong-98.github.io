@@ -1,0 +1,12 @@
+# Site
+title: Yutong's Blog
+subtitle: 'just some random stuff'
+description: 'a biostats student'
+keywords: R, SAS, C++, Java, Python, Biostats
+author: Yutong
+language: en
+timezone: 'Asia/Shanghai'
+
+search:
+  path: search.json
+  field: post

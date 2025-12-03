@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2025/12/02/test/"/>
-      <url>/2025/12/02/test/</url>
+      <title>CLT-Central Limit Theorem</title>
+      <link href="/2025/12/02/CLT-Central%20Limiting%20Theorem/"/>
+      <url>/2025/12/02/CLT-Central%20Limiting%20Theorem/</url>
       
-        <content type="html"><![CDATA[<p>Hi, this are my notes towards to statistical inference.</p><p>$\alpha…?$</p>]]></content>
+        <content type="html"><![CDATA[<p>NOTE: There is no assumption on the distribution of $X$.</p><p>Theorem</p><p>Let $X_1, X_2,…,$ be a sequence of $i.i.d$ random variables whose mgfs exist in a neighbourhood of 0 (that is, $M_{X_i} (t)$) exists for $|t| &lt; h$, for some positive $h$).</p>]]></content>
       
       
       
